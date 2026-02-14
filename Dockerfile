@@ -1,0 +1,1 @@
+FROM nocobase/nocobase:latest
